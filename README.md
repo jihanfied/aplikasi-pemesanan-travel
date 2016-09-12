@@ -2,7 +2,7 @@
 ###Penjelasan Aplikasi
 Aplikasi ini dibuat untuk menyelesaikan tugas pelajaran PBB dari Bp.Hendra.
 Aplikasi ini ditujukan mempermudah pengguna(pelanggan) Travel khusunya Travel perjalan antar Jawa Timur.
-Pengguna dapat memesan Travel melalui aplikasi ini dengan cara mengisikan form yang sudah disediakan yaitu Nama, Alamat, No telp, Asal(Dari mana), Tujuan(Kemana), Keberangkatan(Pagi,Siang,Sore), Fasilitas(Travel dan Makan)
+Pengguna dapat memesan Travel melalui aplikasi ini dengan cara mengisikan form yang sudah disediakan yaitu Nama, Alamat, No telp, Asal(Dari mana), Tujuan(Kemana), Keberangkatan(Pagi,Siang,Sore), Fasilitas(Travel dan Makan).
 Apabila Form Nama, Alamt, dan No.Telp tidak diisi maka aplikasi ini tidak akan melakukan proses pemesanan.
 
 ###Screenshoot
